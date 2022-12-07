@@ -1,0 +1,12 @@
+title: Vaccine Tracking Web App for Healthcare Providers
+author: Pearle Shah, Rahul Barla, Anusha Shinde
+abstract: Keeping track of personal medical information can be difficult for the average patient, particularly 
+  after changes in healthcare providers and hospitals. This can be more burdensome for vaccine records because 
+  the patient may not recall their entire specific vaccine history, which makes it harder for the healthcare 
+  professional to have fully accurate information. The goal of our project is to mitigate this process. 
+  Our GUI allows a healthcare provider to log in to a database and enter information for a specific patient. 
+  The information that is entered will pertain to the vaccine that a patient will be receiving - the location 
+  of administration, date, vaccine's lot number and name, reason for vaccination, and the vaccine administrator's 
+  name - which will be stored in a database. The database will also enable a doctor to view information about a 
+  patient's previous vaccine history by filtering the database via the patient's name (will populate a table 
+  that shows the vaccine history for the patient).
